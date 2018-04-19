@@ -19,15 +19,14 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>My starting point was when I had no blog, and no idea</td>
+    <td>My starting point was when I had no blog, and no</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
     <td>To have a blog on github and start codecademy</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <td>Did I reach my target? (add details to "Lesson Review")</td>
     <td> Yes </td>
   </tr>
 </table>
