@@ -41,13 +41,15 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>My main method for learning was look at the code that was already there, then I would think "how would I write this?" compare my idea to the flawed code that was already there, and then troubleshoot from then on. What's more, I used to learn python in my spare time, so I used my prior knowledge and then I Used that to troubleshoot. </td>
+    <td>My main method for learning was look at the code that was already there, then I would think "how would I write this?" compare my idea to the flawed code that was already there, and then troubleshoot from then on. What's more, I used to learn python in my spare time, so I used my prior knowledge and then I Used that to troubleshoot.
+    </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>As far as I know, I was working to the best of my ability, so I don't really think that anything limited my learning.</td>
+    <td>As far as I know, I was working to the best of my ability, so I don't really think that anything limited my learning.
+    </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
