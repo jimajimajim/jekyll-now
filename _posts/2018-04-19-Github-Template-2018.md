@@ -1,4 +1,4 @@
----
+--
 title: Week 1 Blog - I'm up and running!
 layout: post
 author: james.mchale
@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>My starting point was when I had no blog, and no</td>
+    <td>My starting point was when I had no blog</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
