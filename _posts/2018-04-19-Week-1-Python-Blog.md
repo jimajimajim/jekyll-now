@@ -1,5 +1,5 @@
 ---
-title: Github Template 2018
+title: Week 1 Python Blog
 layout: post
 author: james.mchale
 permalink: /github-template-2018/
