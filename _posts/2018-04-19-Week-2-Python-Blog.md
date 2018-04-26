@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Making a blog, and starting Codecademy</td>
+    <td>Doing more work on codecademy</td>
     <td>Date</td>
     <td>19/04/18</td>
   </tr>
