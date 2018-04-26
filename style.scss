@@ -118,13 +118,13 @@ width: 100%;
 }
 
 table, th, td {
-border: 1px solid white;
+border: 1.5px solid white;
 background-color: black;
 
 }
 
 td {
-vertical-align: middle; 
+vertical-align: left; 
 padding: 10px;
 }	
 
@@ -307,7 +307,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: transparent;
 }
 
 footer {
