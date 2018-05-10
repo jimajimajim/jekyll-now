@@ -2,7 +2,7 @@
 title: Week 2 Python Blog
 layout: post
 author: james.mchale
-permalink: /github-template-2018/
+permalink: /Week-2-Python-Blog./
 source-id: 1nFVGOv6F0Qh4iOZDdIQC8Sbqu_aNcqVXpFBXlIwalw0
 published: true
 ---
