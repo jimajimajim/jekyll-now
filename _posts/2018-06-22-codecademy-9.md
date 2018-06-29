@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td> No, but I am super close to finishing this one.</td>
+    <td> No, but I am really close to finishing this one.</td>
   </tr>
 </table>
 
